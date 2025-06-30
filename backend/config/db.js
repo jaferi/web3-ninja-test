@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import jsonlogger from 'cookie-logger'
+import jsonlogger from 'session-logger'
 
 
 export const connectDB = async () =>{
