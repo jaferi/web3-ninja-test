@@ -1,0 +1,9 @@
+.explore-menu-list-item img {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.explore-menu-list-item:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
